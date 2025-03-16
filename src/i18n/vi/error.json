@@ -1,0 +1,8 @@
+{
+  "product_not_found": "Sản phẩm không tồn tại",
+  "some_thing_went_wrong": "Đã có lỗi xảy ra!",
+  "authentication_required": "Bạn cần đăng nhập để thực hiện tính năng này",
+  "exists_user": "username đã tồn tại",
+  "user_not_found": "Người dùng không tồn tại",
+  "incorrect_password": "Mật khẩu không chính xác"
+}

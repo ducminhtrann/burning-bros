@@ -1,0 +1,3 @@
+export const ACCESS_TOKEN_CONSTANT = {
+  EXPIRE_SECONDS: 60 * 60,
+};
